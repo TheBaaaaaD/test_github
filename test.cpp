@@ -16,6 +16,6 @@ int main()
             cout<<chaine<<endl;
             fclose(fichier);
         }
-
+	printf("lol\n");
     return 0;
 }
